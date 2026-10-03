@@ -5,8 +5,8 @@
 <p>
   <a href="https://aws.amazon.com/certification/certified-security-specialty/" title="AWS Certified Security – Specialty">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/ui/aws-security-specialty-dark.svg" />
-      <img src="assets/ui/aws-security-specialty-light.svg" alt="AWS Certified Security – Specialty" width="400" />
+      <source media="(prefers-color-scheme: dark)" srcset="assets/ui/aws-security-specialty-dark.svg?v=90d1e44" />
+      <img src="assets/ui/aws-security-specialty-light.svg?v=90d1e44" alt="AWS Certified Security – Specialty" width="400" />
     </picture>
   </a>
 </p>
@@ -14,8 +14,8 @@
 <p>
   <a href="https://aws.amazon.com/certification/certified-generative-ai-developer-professional/" title="AWS Certified Generative AI Developer – Professional">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/ui/aws-generative-ai-developer-professional-dark.svg" />
-      <img src="assets/ui/aws-generative-ai-developer-professional-light.svg" alt="AWS Certified Generative AI Developer – Professional" width="400" />
+      <source media="(prefers-color-scheme: dark)" srcset="assets/ui/aws-generative-ai-developer-professional-dark.svg?v=90d1e44" />
+      <img src="assets/ui/aws-generative-ai-developer-professional-light.svg?v=90d1e44" alt="AWS Certified Generative AI Developer – Professional" width="400" />
     </picture>
   </a>
 </p>
@@ -23,8 +23,8 @@
 <p>
   <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" title="AWS Certified Solutions Architect – Associate">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/ui/aws-solutions-architect-associate-dark.svg" />
-      <img src="assets/ui/aws-solutions-architect-associate-light.svg" alt="AWS Certified Solutions Architect – Associate" width="400" />
+      <source media="(prefers-color-scheme: dark)" srcset="assets/ui/aws-solutions-architect-associate-dark.svg?v=90d1e44" />
+      <img src="assets/ui/aws-solutions-architect-associate-light.svg?v=90d1e44" alt="AWS Certified Solutions Architect – Associate" width="400" />
     </picture>
   </a>
 </p>
