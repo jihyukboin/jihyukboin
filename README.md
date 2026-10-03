@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://reviewinkorea.com" title="리뷰인코리아"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/project-reviewinkorea-dark.svg" /><img src="assets/ui/project-reviewinkorea-light.svg" alt="리뷰인코리아" width="49%" /></picture></a>
   &nbsp;
-  <a href="https://sendquiz.net" title="샌드 - 나만의 AI 퀴즈앱"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/project-sendquiz-dark.svg" /><img src="assets/ui/project-sendquiz-light.svg" alt="샌드 - 나만의 AI 퀴즈앱" width="49%" /></picture></a>
+  <a href="https://sendquiz.net" title="샌드 - 나만의 AI 퀴즈앱"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/project-sendquiz-dark-logo.svg" /><img src="assets/ui/project-sendquiz-light-logo.svg" alt="샌드 - 나만의 AI 퀴즈앱" width="49%" /></picture></a>
 </p>
 
 <p align="left">
