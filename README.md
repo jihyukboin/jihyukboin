@@ -1,5 +1,29 @@
 ## Hi there 👋
 
+<h3>Projects</h3>
+
+<p>
+  <a href="https://imgobot.com" title="임고봇"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/project-imgobot-dark.svg" /><img src="assets/ui/project-imgobot-light.svg" alt="임고봇" width="400" /></picture></a>
+  &nbsp;
+  <a href="https://쉬었음.com" title="쉬었음닷컴"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/project-rested-dark.svg" /><img src="assets/ui/project-rested-light.svg" alt="쉬었음닷컴" width="400" /></picture></a>
+</p>
+
+<p>
+  <a href="https://trendswhat.com" title="트렌드왓 - 글로벌 트렌드 모아보기"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/project-trendswhat-dark.svg" /><img src="assets/ui/project-trendswhat-light.svg" alt="트렌드왓 - 글로벌 트렌드 모아보기" width="400" /></picture></a>
+  &nbsp;
+  <a href="https://apps.apple.com/kr/app/%EB%82%B4%EC%9D%BC%ED%95%A0%EA%B9%8C-%EA%B2%8C%EC%9C%BC%EB%A6%84%EB%B1%85%EC%9D%B4-%ED%94%8C%EB%9E%98%EB%84%88/id6777882500" title="내일할까 - 게으름뱅이 플래너"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/project-maybe-tomorrow-dark.svg" /><img src="assets/ui/project-maybe-tomorrow-light.svg" alt="내일할까 - 게으름뱅이 플래너" width="400" /></picture></a>
+</p>
+
+<p>
+  <a href="https://reviewinkorea.com" title="리뷰인코리아"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/project-reviewinkorea-dark.svg" /><img src="assets/ui/project-reviewinkorea-light.svg" alt="리뷰인코리아" width="400" /></picture></a>
+  &nbsp;
+  <a href="https://sendquiz.net" title="샌드 - 나만의 AI 퀴즈앱"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/project-sendquiz-dark.svg" /><img src="assets/ui/project-sendquiz-light.svg" alt="샌드 - 나만의 AI 퀴즈앱" width="400" /></picture></a>
+</p>
+
+<p>
+  <a href="https://fintrendbeacon.com" title="살래말래 - 스마트 자산관리 앱"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/project-fintrendbeacon-dark.svg" /><img src="assets/ui/project-fintrendbeacon-light.svg" alt="살래말래 - 스마트 자산관리 앱" width="400" /></picture></a>
+</p>
+
 <h3>Certifications</h3>
 
 <p>
