@@ -20,7 +20,7 @@
   <a href="https://sendquiz.net" title="샌드 - 나만의 AI 퀴즈앱"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/project-sendquiz-dark.svg" /><img src="assets/ui/project-sendquiz-light.svg" alt="샌드 - 나만의 AI 퀴즈앱" width="49%" /></picture></a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://fintrendbeacon.com" title="살래말래 - 스마트 자산관리 앱"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/project-fintrendbeacon-dark.svg" /><img src="assets/ui/project-fintrendbeacon-light.svg" alt="살래말래 - 스마트 자산관리 앱" width="49%" /></picture></a>
 </p>
 
