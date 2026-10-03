@@ -3,7 +3,7 @@
 <h3>Projects</h3>
 
 <p>
-  <a href="https://imgobot.com" title="임고봇"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/project-imgobot-dark.svg" /><img src="assets/ui/project-imgobot-light.svg" alt="임고봇" width="400" /></picture></a>
+  <a href="https://imgobot.com" title="임고봇"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/project-imgobot-dark-tile.svg" /><img src="assets/ui/project-imgobot-light-tile.svg" alt="임고봇" width="400" /></picture></a>
   &nbsp;
   <a href="https://쉬었음.com" title="쉬었음닷컴"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/project-rested-dark.svg" /><img src="assets/ui/project-rested-light.svg" alt="쉬었음닷컴" width="400" /></picture></a>
 </p>
