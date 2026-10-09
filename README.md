@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://fintrendbeacon.com" title="살래말래 - 스마트 자산관리 앱"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/ui/project-fintrendbeacon-dark-mobile.svg" /><source media="(max-width: 600px)" srcset="assets/ui/project-fintrendbeacon-light-mobile.svg" /><source media="(prefers-color-scheme: dark)" srcset="assets/ui/project-fintrendbeacon-dark.svg" /><img src="assets/ui/project-fintrendbeacon-light.svg" alt="살래말래 - 스마트 자산관리 앱" width="414" /></picture></a>
+  <a href="https://finance.imgobot.com" title="살래말래 - 스마트 자산관리 앱"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/ui/project-fintrendbeacon-dark-mobile.svg" /><source media="(max-width: 600px)" srcset="assets/ui/project-fintrendbeacon-light-mobile.svg" /><source media="(prefers-color-scheme: dark)" srcset="assets/ui/project-fintrendbeacon-dark.svg" /><img src="assets/ui/project-fintrendbeacon-light.svg" alt="살래말래 - 스마트 자산관리 앱" width="414" /></picture></a>
   <img src="assets/ui/project-layout-spacer.svg" alt="" width="414" height="1" />
 </p>
 
